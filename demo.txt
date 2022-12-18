@@ -2,3 +2,4 @@ this is my second file
 this is my3rd line
 this is my4rd line
 this is my 5th line
+this is my 6th line
